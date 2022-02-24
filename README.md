@@ -1,5 +1,5 @@
 # VB6 add GUI objects at runtime
-This Visual Basic 6.0 (VB6) demo shows how to make new objects at runtime. Shows how different types of objects (in this case textbox object) can be created at runtime and whose properties can be modified as desired.
+This Visual Basic 6.0 (VB6) demo shows how to make new objects at runtime. Shows how different types of objects (in this case a textbox object) can be created at runtime and whose properties can be modified as desired.
 
 # Screenshot
 
